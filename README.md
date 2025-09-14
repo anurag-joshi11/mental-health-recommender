@@ -1,4 +1,4 @@
-# Mental Health Chatbot Recommender System
+# Mental Health Recommender System
 
 A conversational AI system for mental health assessment and personalized recommendations using GAD-7, PHQ-9, and sentiment analysis.
 
