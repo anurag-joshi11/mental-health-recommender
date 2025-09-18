@@ -19,7 +19,7 @@ A conversational AI system for mental health assessment and personalized recomme
 
 ---
 
-## How It Works
+## How It  Works
 
 1. **User interacts** with the chatbot (Dialogflow).
 2. **Survey path**: If user agrees, GAD-7 and PHQ-9 are administered, responses classified using ML models (SVM, etc.), and recommendations are generated.
